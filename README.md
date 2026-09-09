@@ -1,5 +1,6 @@
 # numbersRiddle
 **ADDITIONAL INFO**
+
 We decided to code directly in Github and take turns completing the steps stated on PLTW
 Look at the commits to see who did what; the tasks are generally spread out evenly
 

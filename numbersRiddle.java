@@ -11,7 +11,7 @@ public class numbersRiddle {
 
     double chosenNumber;
     System.out.println("The chosen number is " + chosenNumber);
-
+    double originalchosenNumber = chosenNumber;
     chosenNumber *= 2;
     System.out.println("The number doubled is " + chosenNumber);
 
@@ -20,6 +20,8 @@ public class numbersRiddle {
 
     chosenNumber = chosenNumber/2;
     System.out.println("The number divided by 2 is " + chosenNumber);
-    
+
+    chosenNumber -= originalchosenNumber;
+    System.out.println("The number subtracted by the chosen number is" + chosenNumber);
   }
 }

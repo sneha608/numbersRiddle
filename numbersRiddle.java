@@ -9,7 +9,7 @@ public class numbersRiddle {
     double negativeDouble = -3.7;
   
 
-    int chosenNumber;
+    double chosenNumber;
     System.out.println("The chosen number is " + chosenNumber);
 
     chosenNumber *= 2;
@@ -17,6 +17,9 @@ public class numbersRiddle {
 
     chosenNumber +=6;
     System.out.println("Adding 6 to your number yields: "+chosenNumber);
+
+    chosenNumber = chosenNumber/2;
+    System.out.println("The number divided by 2 is " + chosenNumber);
     
   }
 }

@@ -14,6 +14,9 @@ public class numbersRiddle {
 
     chosenNumber *= 2;
     System.out.println("The number doubled is " + chosenNumber);
+
+    chosenNumber +=6;
+    System.out.println("Adding 6 to your number yields: "+chosenNumber);
     
   }
 }

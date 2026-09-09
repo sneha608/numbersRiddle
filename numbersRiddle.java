@@ -6,7 +6,7 @@ public class numbersRiddle {
     int zeroInteger = 0;
     double positiveDecimal = 8.1;
     double negativeDecimal = -3.7;
-    double zeroDecimal = 0.0;
+  
 
     int chosenNumber;
     System.out.println("The chosen number is " + chosenNumber);

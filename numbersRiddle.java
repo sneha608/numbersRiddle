@@ -1,9 +1,12 @@
 public class numbersRiddle {
   public static void main(String[] args) {
 
-    int positiveNumber = 5;
-    int negativeNumber = -1;
-    int zeroNumber = 0;
+    int positiveInteger = 5;
+    int negativeInteger = -1;
+    int zeroInteger = 0;
+    double positiveDecimal = 8.1;
+    double negativeDecimal = -3.7;
+    double zeroDecimal = 0.0;
 
     int chosenNumber;
     System.out.println("The chosen number is " + chosenNumber);

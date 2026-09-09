@@ -5,6 +5,7 @@ public class numberRiddle{
         num = Double.parseDouble(arg[0]);
         double init;
         init = Double.parseDouble(arg[0]);
+        System.out.println("Your number is: "+num);
         System.out.println("We double the number: "+num+"*2 = "+(num*2));
         num*=2;
         System.out.println("We add 6 to the number: "+num+"+6 = "+

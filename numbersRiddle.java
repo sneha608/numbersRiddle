@@ -4,8 +4,9 @@ public class numbersRiddle {
     int positiveInteger = 5;
     int negativeInteger = -1;
     int zeroInteger = 0;
-    double positiveDecimal = 8.1;
-    double negativeDecimal = -3.7;
+    int oneInteger = 1;
+    double positiveDouble = 7.9;
+    double negativeDouble = -3.7;
   
 
     int chosenNumber;

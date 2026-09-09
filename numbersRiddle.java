@@ -5,11 +5,11 @@ public class numbersRiddle {
     int negativeNumber = -1;
     int zeroNumber = 0;
 
-    int chosenNumber
-    System.out.println("The chosen number is " + chosenNumber)
+    int chosenNumber;
+    System.out.println("The chosen number is " + chosenNumber);
 
-    chosenNumber *= 2
-    System.out.println("The number doubled is " + chosenNumber)
+    chosenNumber *= 2;
+    System.out.println("The number doubled is " + chosenNumber);
     
   }
 }
